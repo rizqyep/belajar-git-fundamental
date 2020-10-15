@@ -1,3 +1,10 @@
 - Mempelajari dasar programming 
 - Mempelajari sintaks dasar
 - Mempelajari konsep programming
+
+
+Target Skill : 
+
+- Algoritma
+- Problem Solving
+- Data Structure
